@@ -7,7 +7,7 @@
  El *boton de panico* que desarrolle para este proyecto, tiene como objetivo\
  ayudar a la poblacion a alertar a quien este a su alrededor cuando alguien se encuentre\
  en peligro.
- ![Screenshot de la app](https://drive.google.com/file/d/1LON-DGZYDkYugXA0_DSI1eANl4lLJNmc/view?usp=sharing)
+ ![Screenshot de la app](https://github.com/ErnestoVarib/ImagenesProyectos/blob/master/72816496_532224850670525_5254749030453346304_n.jpg)
  
  ### Instalacion de la aplicacion #
  Para instalar la aplicacion, sera necesario que en las configuraciones de seguridad \
@@ -22,7 +22,7 @@
  Cuando estes en peligro, lo que tienes que realizar es lo siguiente: 
  * Abrir la app lo mas pronto posible
  * subir el volume de tu dispositivo al maximo (Esto se realizara automaticamente en una futura version de la app)
- * Sobre todo **INTENTAR SALIR DEL PELIGRO**\
+ * Sobre todo **INTENTAR SALIR DEL PELIGRO**
  
  Una vez que logres salir del peligro, podras desactivar la alarma respondiendo la pregunta de seguridad.
 Por ahora la pregunta por defecto es *¿Como se llama mi perro?* y la respuesta es *Ringo*. Esto se modificara y se hara configurable para el usuario en la proxima version de la aplicacion disponible. 
